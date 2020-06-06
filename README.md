@@ -1,1 +1,4 @@
-# 189?programming_questions_and_solutions
+# Cracking the Coding Interview in Python
+
+# How to use?
+download and run in your jupyter notebook
